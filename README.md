@@ -1,6 +1,6 @@
 # Member (React)
 
-Minimal React workspace scaffolded with Vite.
+
 
 ## Getting started
 
